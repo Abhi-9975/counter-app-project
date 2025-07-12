@@ -12,7 +12,7 @@ import ReactGA from 'react-ga4';
 
 // IMPORTANT: Replace 'G-XXXXXXXXXX' with your actual Google Analytics 4 Measurement ID
 // You obtained this in Step 1 of the previous instructions (it starts with 'G-')
-const GA4_MEASUREMENT_ID = 'G-XXXXXXXXXX'; // <--- REPLACE THIS PLACEHOLDER!
+const GA4_MEASUREMENT_ID = 'G-E0RBYL3VD8'; // <--- REPLACE THIS PLACEHOLDER!
 
 // Initialize Google Analytics 4
 ReactGA.initialize(GA4_MEASUREMENT_ID);
